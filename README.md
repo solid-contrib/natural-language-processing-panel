@@ -33,7 +33,7 @@ to propose a project for the panel to undertake.
 
 ### Goals
 
-To identify and define standards and mechanisms needed to allow transforming plain text to linked data with part of speech and language ontologies.
+To identify and define standards and mechanisms needed to allow transforming plain text to linked data with part of speech and language ontologies, such as the [NIF Core Ontology](https://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html)
 
 ## Query Pipelines for Language Enhancement
 
