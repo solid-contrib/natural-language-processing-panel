@@ -27,18 +27,3 @@ to propose a project for the panel to undertake.
 | Type | Location |
 | ---- | ---- |
 | Chat | <https://gitter.im/solid/chat> |
-
-
-## Part of Speech Enhancement
-
-### Goals
-
-To identify and define standards and mechanisms needed to allow transforming plain text to linked data with part of speech and language ontologies, such as the [NIF Core Ontology](https://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html)
-
-## Query Pipelines for Language Enhancement
-
-### Goals
-
-To identify and define standards and mechanisms needed to allow creation and use of pipelines of Sparql queries to identify abstract concepts in linked data with the aim of enhancing plain text with language ontologies.
-
-
