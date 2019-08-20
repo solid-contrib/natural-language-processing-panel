@@ -10,8 +10,8 @@ For contributing members see the
 
 ## Projects
 
-- [Part of Speech Enhancement](#part-of-speech-enhancement)
-- [Query Pipelines for Language Enhancement](#query-pipelines-for-language-enhancement)
+- [Part of Speech Enhancement](part-of-speech-enhancement/README.md)
+- [Query Pipelines for Language Enhancement](query-pipelines-for-language-enhancement/README.md)
 
 [Submit an issue](https://github.com/solid/natural-language-processing-panel/issues/new)
 to propose a project for the panel to undertake.
